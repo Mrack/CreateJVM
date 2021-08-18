@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.19)
+project(jvmtest)
+set(CMAKE_CXX_STANDARD 14)
+link_directories(.)
+add_executable(jvmtest main.cpp)
