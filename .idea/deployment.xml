@@ -2,12 +2,36 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="Remote Host (1) (c76bec54-151e-45a5-9295-b228c787b30e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.WiafiWTq16" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (1f19b733-22e6-4eb1-9220-57da476017af)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.8iQRSeWsmD" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="Remote Host (611fc2d3-9b72-456b-9064-1fe06105bf39)">
         <serverdata>
           <mappings>
             <mapping deploy="/tmp/tmp.1uARdwbxjc" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
           </excludedPaths>
@@ -20,7 +44,36 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="Remote Host (75355806-574a-4fcf-8cfc-58d104f59185)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.iOrBmp2aGQ" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="Remote Host (8d6eb0af-f14a-4626-b6d4-09c207c75e12)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (c8d838f3-516d-4195-aa31-67f121a69f42)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.LKboIu4tFI" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="WSL (1572185a-ca7e-4be0-97a7-18ac88c8fd13)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -35,6 +88,13 @@
         </serverdata>
       </paths>
       <paths name="WSL (23d4e269-96ff-4cc6-b7cf-fe2aaaa631cb)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="WSL (62986305-691f-4517-a840-d0f9dd277e06)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -63,6 +123,13 @@
         </serverdata>
       </paths>
       <paths name="WSL (9983ce02-3a36-454f-a4e4-61b1b0cfe938)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="WSL (9f9fd919-1c64-4526-becd-268bf816bfd2)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
